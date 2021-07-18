@@ -3,7 +3,7 @@
 - Use only functional components
 - Create a simple "spinner" component - Use FontAwesome for the spinner
 - Render the Spinner before data is retrieved
-- Get data, start to get data using useEffect from https://jsonplaceholder.typicode.com/comments?_delay=2000
+- Start to get data using useEffect from https://jsonplaceholder.typicode.com/comments?_delay=2000
 - When data has come, save to state and render the data without the spinner
 - Use nice rendering for the data, but you don not have to use fancy styling
 
